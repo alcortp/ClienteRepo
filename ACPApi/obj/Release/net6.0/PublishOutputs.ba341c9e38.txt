@@ -1,0 +1,17 @@
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\ACPApi.exe
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\ACPApi.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\ACPApi.deps.json
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\ACPApi.runtimeconfig.json
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\ACPApi.pdb
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Joyit\ACPProject\ACPApi\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

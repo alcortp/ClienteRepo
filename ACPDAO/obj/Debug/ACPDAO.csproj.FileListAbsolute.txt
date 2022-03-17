@@ -1,0 +1,12 @@
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\ACPDAO.dll
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\ACPDAO.pdb
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\ACPDominio.dll
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Joyit\ACPProject\ACPDAO\bin\Debug\ACPDominio.pdb
+D:\Joyit\ACPProject\ACPDAO\obj\Debug\ACPDAO.csproj.AssemblyReference.cache
+D:\Joyit\ACPProject\ACPDAO\obj\Debug\ACPDAO.csproj.CoreCompileInputs.cache
+D:\Joyit\ACPProject\ACPDAO\obj\Debug\ACPDAO.csproj.CopyComplete
+D:\Joyit\ACPProject\ACPDAO\obj\Debug\ACPDAO.dll
+D:\Joyit\ACPProject\ACPDAO\obj\Debug\ACPDAO.pdb
